@@ -1,7 +1,7 @@
 const Navigation = () => {
     return (
         <nav className="navbar">
-            <h1>My <Profile></Profile></h1>
+            <h1>My Profile</h1>
             <div className="links">
                 <a href="#">About Me</a>
                 <a href="#">Portofolio</a>
